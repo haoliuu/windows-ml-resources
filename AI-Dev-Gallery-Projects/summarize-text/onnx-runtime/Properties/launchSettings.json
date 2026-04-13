@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SummarizeSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SummarizeSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
