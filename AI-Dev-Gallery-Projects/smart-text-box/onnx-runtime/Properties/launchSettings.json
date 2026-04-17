@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Smart Text BoxSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Smart Text BoxSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
