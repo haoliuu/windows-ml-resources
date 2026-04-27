@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Smart PasteSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Smart PasteSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
