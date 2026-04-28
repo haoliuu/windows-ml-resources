@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Generate CodeSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Generate CodeSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
