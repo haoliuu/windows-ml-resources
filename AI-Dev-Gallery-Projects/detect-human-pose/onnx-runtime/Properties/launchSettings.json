@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Pose DetectionSample (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Pose DetectionSample (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
